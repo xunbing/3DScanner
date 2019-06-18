@@ -1,11 +1,13 @@
 # 3DScanner
 三维扫描相关算法
   
-  包括多频外差相位求解、相机标定、点云后处理等相关算法
+  包括多频外差相位求解、相机标定、点云后处理、点云可视化等相关算法
+
+
 
 一、模块介绍
-相机驱动：\n
-Camera.h\n
+相机驱动
+Camera.h
 CameraApi.h
 CameraDefine.H
 CameraStatus.h
